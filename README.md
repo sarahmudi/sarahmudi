@@ -1,5 +1,8 @@
 <h1>Hi, I'm Sarah! <br/><a href="https://github.com/sarahmudi">Cybersecurity Professional in Training</a> <a href="www.linkedin.com/in/sarah-bandlamudi/"></a> | Former Educator </h1>
 
+<h2>Professional Statement:</h2>
+<p>I am a former educator transitioning into cybersecurity, with a strong foundation in analytical thinking and problem-solving. I am deeply motivated by the mission of creating secure environments where people and organizations can thrive. My experience managing systems, guiding teams, and adapting to evolving challenges has prepared me to tackle cybersecurity threats with clarity and precision. I am committed to protecting digital spaces through continuous learning, ethical responsibility, and a people-first mindset. </p>
+
 <h2>Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
