@@ -9,6 +9,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications: </h2>
+-<b>Foundations of Cybersecurity by Google</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
